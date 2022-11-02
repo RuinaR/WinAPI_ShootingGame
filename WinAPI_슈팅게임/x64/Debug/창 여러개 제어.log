@@ -1,0 +1,85 @@
+﻿  main.cpp
+  winControl.cpp
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(72,22): warning C4838: 'double'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(72,22): warning C4244: '초기화 중': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(72,31): warning C4838: 'double'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(72,31): warning C4244: '초기화 중': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(364,86): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(364,76): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(364,66): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(364,40): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(408,57): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(408,30): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(407,68): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(407,41): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(456,79): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(456,30): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(455,95): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(455,46): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(467,79): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(467,30): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(466,95): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(466,46): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(475,80): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(475,63): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(475,46): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(475,29): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(643,47): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(643,14): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(642,63): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(642,30): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(651,48): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(651,14): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(650,65): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(650,32): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(660,15): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(659,37): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(658,14): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(657,14): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(672,47): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(672,14): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(671,63): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(671,30): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(681,80): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(681,63): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(681,46): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(681,29): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(688,31): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(688,13): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(687,48): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(687,31): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(697,14): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(696,20): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(695,13): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(694,13): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(848,47): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(848,14): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(847,63): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(847,30): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(856,48): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(856,14): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(855,65): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(855,32): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(865,15): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(864,37): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(863,14): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(862,14): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(877,47): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(877,14): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(876,63): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(876,30): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(886,80): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(886,63): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(886,46): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(886,29): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(893,31): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(893,13): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(892,48): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(892,31): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(902,14): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(901,20): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(900,13): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(899,13): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\winControl.cpp(934,6): warning C4101: 'Message' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  창 여러개 제어.vcxproj -> F:\1학년 2학기\API(vs2019)\WinApi_슈팅게임\x64\Debug\창 여러개 제어.exe
